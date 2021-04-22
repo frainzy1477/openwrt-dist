@@ -1,0 +1,6 @@
+eb81e04e32b448c0aab5d6e69b7ef10cf0c44a2030bbb43a16e90fa9416b46c4 *openwrt-19.07.7-ramips-mt7621-device-r6220.manifest
+0a48b7a71a8d41fffb5fd9763a953520f22fdb9abb763840b3983ad5fca9f461 *openwrt-19.07.7-ramips-mt7621-r6220-squashfs-factory.img
+1c8e3fc2a87337369d298b8f42ca997e6d5aac60e2e1ac5fdb2399da6cbadd07 *openwrt-19.07.7-ramips-mt7621-r6220-squashfs-kernel.bin
+9ebcac720d9bdf7ea5aa5835c0f24ef0dd09acbea149709c7bdad5a7f469e51e *openwrt-19.07.7-ramips-mt7621-r6220-squashfs-rootfs.bin
+815fa2e614f10f4d72698b5eb92cc6fb17a9ca605f83b9836a4032da7f713c8a *openwrt-19.07.7-ramips-mt7621-r6220-squashfs-sysupgrade.bin
+58259baf7c848baacb7a93312cf63f0a7edacd432612548745e85588cd0b76fd *profiles.json
