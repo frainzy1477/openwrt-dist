@@ -1,0 +1,4 @@
+7fadb1ab35ce13228ac176b95382d56b11b63c524dbeb68f74215738c30db0a7 *openwrt-21.02-snapshot-r16051-15cd9a5d5c-rockchip-armv8-friendlyarm_nanopi-r2s-ext4-sysupgrade.img.gz
+b77edac2932e0ca2f66513960e02401ccf2705c29dd5d3e9b6b7755eb2042ceb *openwrt-21.02-snapshot-r16051-15cd9a5d5c-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz
+9534df009b36da0171dff5886d6fa25e011582c50ce7cf23fc89182c349791e5 *openwrt-21.02-snapshot-r16051-15cd9a5d5c-rockchip-armv8-friendlyarm_nanopi-r2s.manifest
+2b80e5abaef4cf447d81b8597166d0c6fc8657c82421238f3e9c99ff9651b32f *profiles.json
