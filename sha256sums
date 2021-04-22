@@ -1,0 +1,10 @@
+300ffb5e5a2eba09504b1da8e77e7ae32d6aee3bd9fe6d7cac571eae051de87c *openwrt-19.07.7-ar71xx-generic-device-qihoo-c301.manifest
+0d23e52269657abc37776c466921ee20ad1e40c02df2a49e9c8d47fcb8cd1275 *openwrt-19.07.7-ar71xx-generic-qihoo-c301-squashfs-factory.bin
+ba4b6e0e5e306741a36a734c3cc9db49455edc3f33952fe45cc8ca40246000a0 *openwrt-19.07.7-ar71xx-generic-qihoo-c301-squashfs-sysupgrade.bin
+3d4db99fefbf06181502012cc78a06e5b015aedb20c9af14a5a6abfc619fd3d0 *openwrt-19.07.7-ar71xx-generic-root.squashfs
+6b6b1e02d48b76463ca625a772b34d372bb782400cfe006f09161d60337a3534 *openwrt-19.07.7-ar71xx-generic-uImage-lzma.bin
+006612efaa898f2bd4249d94abaf0f9a91a8498c8d16a2ab2e1165e4c75d890e *openwrt-19.07.7-ar71xx-generic-vmlinux-lzma.elf
+6fce36f78a81e5f87987f6150e53db969298a0c3659b669b09c6f2a8c531c5ce *openwrt-19.07.7-ar71xx-generic-vmlinux.bin
+8f2de7a9be57e6487baa5d971111ccfa4e58cd9901b01c9186365fe824ddec07 *openwrt-19.07.7-ar71xx-generic-vmlinux.elf
+8b84b5d3cbc962380d4f235fbeb496d40f5130ec247664be5737e57ecf2cd675 *openwrt-19.07.7-ar71xx-generic-vmlinux.lzma
+ab796b840c4ee2c54db37ab60397cf17db7580a8bd684fbee9c06527c94d21a7 *profiles.json
